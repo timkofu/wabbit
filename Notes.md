@@ -1,2 +1,2 @@
 - Anylogic Cloud API docs: https://anylogic.help/cloud/api/rest.html
-- 
+- Data-class `Inputs` could contain the actual data from the queue, negatting the need for RMQ dependancy in the model.

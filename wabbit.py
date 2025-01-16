@@ -23,8 +23,6 @@ class ALCCredentials:
 # https://anylogic.help/cloud/api/rest.html#run-request-object
 @dataclass(frozen=True, kw_only=True)
 class Inputs:
-    # This could contain the actual data from the queue
-    # negatting the need for RMQ logic in the model.
     RabbitMQConnection: str
     queueName: str
 

@@ -1,0 +1,3 @@
+# Wabbit
+
+`RabbitMQ - * - Anylogic Cloud`.
