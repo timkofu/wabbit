@@ -1,0 +1,6 @@
+.venv
+*.log
+.coverage
+poetry.lock
+__pycache__/
+.vscode
