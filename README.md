@@ -1,3 +1,3 @@
 # Wabbit
 
-`RabbitMQ - * - Anylogic Cloud`.
+`RabbitMQ - * - Anylogic Cloud`
